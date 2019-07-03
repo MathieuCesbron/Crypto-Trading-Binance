@@ -1,14 +1,7 @@
 import keys
 from binance.client import Client
 
-# Estimation of gains
-# expected : 10% per 6 months
-# 
-
-
 client = Client(keys.api_key, keys.secret_key)
-
-
 
 balance_dollar = 1800
 fees = 0.0015
