@@ -1,2 +1,3 @@
-api_key = "486OxLfEVgL4DIIOUWf1vhwB9Bpui4AqCb2McPwsayaKitHsPrc8O2h1Xj2XEfQR"
-secret_key = "LHP6dtau5IWL9d5ySFIdOEBzyoCs9msJO2QFA3h3RHsBzBn9f1kPn2h5Gg0S8tFp"
+# Put your keys here
+api_key = ""
+secret_key = ""
