@@ -15,6 +15,6 @@ STEP 2 | Add API keys from your binance account to keys.py
 
 STEP 3 | Run the file main.py
 
-![alt text]https://github.com/MathieuCesbron/Crypto-Trading-Binance/blob/master/images/terminal.PNG
+![alt text](https://github.com/MathieuCesbron/Crypto-Trading-Binance/blob/master/images/terminal.PNG)
 
 
