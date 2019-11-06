@@ -1,3 +1,3 @@
 #Put your keys here
-api_key = "qJLXihMvCZQ3LRUVGIAwSnhoWVdyN4X2fFjdJeae6c5nTMjskXxCGewaLkagRQ36"
-secret_key = "gsb2nEZbwblsUMu1yOIHdBQDIh4OCiPm97Xk3pq7Kz8ZqvnBMaFm6Cf0CUG5RSVg"
+api_key = ""
+secret_key = ""
