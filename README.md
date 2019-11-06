@@ -1,6 +1,6 @@
 # Crypto-Trading-Binance
 
-![alt text]()
+![alt text](https://github.com/MathieuCesbron/Crypto-Trading-Binance/blob/master/images/chart.jpg)
 
 Crypto Bot using Binance API in Python
 
